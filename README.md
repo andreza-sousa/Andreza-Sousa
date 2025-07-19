@@ -1,9 +1,7 @@
-# 👩‍💻 Andreza Sousa
+# 👩‍💻 Olá,seja bem-vindo(a)! Sou a Andreza, e este é o meu espaço mo GitHub.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📊 Economista apaixonada por dados e tecnologia  
-🏦 Analista Administrativa Júnior no Banco BV  
-🔗 [LinkedIn](http://linkedin.com/in/andreza-sousa)
 
 ---
 
