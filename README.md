@@ -7,7 +7,7 @@
 
 ## ✨ Sobre mim
 
-Desde 2016, quando trabalhei na Smart Solution, tive meu primeiro contato com o mundo da tecnologia. Embora estivesse em outra área, sempre me vi desafiada por situações que envolviam sistemas e pequenos problemas técnicos — e confesso, ficava brava por não conseguir entender. Na época, achei que tecnologia não era "pra mim".
+Desde 2016, quando trabalhei na Smart Solution, tive meu primeiro contato com o mundo da tecnologia. Embora atuasse em outra área, frequentemente me via diante de pequenos problemas técnicos — e muitos deles eu conseguia resolver. Isso me deixava feliz, mas ao mesmo tempo, eu ainda achava que esse universo não era “pra mim”.
 
 Mas os anos passaram e, em 2025, já no Banco BV, esses desafios voltaram a aparecer — e com eles, veio a vontade de entender, aprender e *resolver. Foi quando surgiu a oportunidade de fazer uma graduação custeada pelo próprio banco. Não pensei duas vezes e me inscrevi no curso de **Análise e Desenvolvimento de Sistemas*. Hoje, sigo aprendendo com dedicação e entusiasmo.
 
