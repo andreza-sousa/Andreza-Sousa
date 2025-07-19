@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a)! Este é o meu espaço no GitHub. 💙
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📊 Economista apaixonada por dados e tecnologia  
+📊 Economista interessada por dados e tecnologia  
 
 ---
 
