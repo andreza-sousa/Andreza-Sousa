@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a)! Sou a Andreza, e este é o meu espaço no GitHub.
+# Olá, seja bem-vindo(a)! Este é o meu espaço no GitHub.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📊 Economista apaixonada por dados e tecnologia  
